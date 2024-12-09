@@ -8,7 +8,11 @@ body {
     margin: 0;
     padding: 0;
 }
-
+h1{
+    font-size: 70px;
+    font-weight: bold;
+    color: white;
+}
 
 .center {
     font-weight: bold;
@@ -40,6 +44,11 @@ body {
     .card-title {
         font-size: 22px; 
     }
+    h1{
+        font-size: 40px;
+        font-weight: bold;
+        color: white;
+    }
 }
 
 /* Media query for screens smaller than 768px */
@@ -62,6 +71,11 @@ body {
 
     .card-title {
         font-size: 20px;
+    }
+     h1{
+        font-size: 40px;
+        font-weight: bold;
+        color: white;
     }
 }
 
